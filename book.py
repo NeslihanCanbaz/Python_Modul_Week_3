@@ -12,7 +12,8 @@ class Book():
          
 
     def borrow(user):
-        print(user)
+        # print(user) this is unncessary
+
         pass
 
     def return_book():
