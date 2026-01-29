@@ -12,6 +12,7 @@ class Book():
          
 
     def borrow(user):
+        print(user)
         pass
 
     def return_book():
