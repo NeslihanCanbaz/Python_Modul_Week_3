@@ -190,9 +190,4 @@ It allows users to borrow and return books, manage accounts, and store data in a
 - All books, users, and borrowing states are stored in a **JSON file**.
 - When the program restarts, the data is reloaded so nothing is lost.
 
----
 
-## HackerRank Questions
-
-- **Inheritance:** https://www.hackerrank.com/challenges/inheritance/problem
-- **Classes: Dealing with Complex Numbers:** https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem
